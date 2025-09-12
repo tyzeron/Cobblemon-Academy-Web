@@ -1,2 +1,3 @@
-# Cobblemon-Academy-Web
-The Unofficial Cobblemon Academy webpage - http://cobblemonacademy.com/
+# Unofficial Cobblemon Academy Webpage
+
+The Unofficial Cobblemon Academy Webpage hosted by Trilobite Tavern - https://cobblemonacademy.com/
