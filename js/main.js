@@ -125,7 +125,7 @@ animationLoop();
 
 // Copy IP to clipboard function
 function copyIP() {
-    const fallbackIP = 'play.cobblemonacademy.com';
+    const fallbackIP = 'play.fossilacademy.com';
 
     if (navigator.clipboard && window.isSecureContext) {
         navigator.clipboard.writeText(fallbackIP).then(() => {
